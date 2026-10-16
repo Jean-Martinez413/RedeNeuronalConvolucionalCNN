@@ -1,0 +1,12 @@
+entornoRedNeuronal/
+__pycache__/
+*.pyc
+results/
+models/
+data/
+datasets/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
